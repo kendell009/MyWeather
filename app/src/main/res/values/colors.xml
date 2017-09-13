@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="red">#ffff0000</color>
+    <color name="ButtonBlue">#2e3059</color>
+    <color name="wholeBox">#262741</color>
+    <color name="AsyncTask">#e1a34d</color>
+    <color name="Volley">#e1f5fe</color>
+    <color name="colorButton">#0D47A1</color>
+    <color name="opaqueBackground">#a2a7a6a6</color>
+    <color name="textColor">#181818</color>
+</resources>

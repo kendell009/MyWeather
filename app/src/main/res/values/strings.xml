@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Weather</string>
+    <string name="data_from_api_with_asynctask">Data from API (ASyncTask):</string>
+    <string name="data_from_api_with_volley">Data from API (Volley):</string>
+</resources>
